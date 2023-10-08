@@ -51,3 +51,4 @@ dependencies:
     - fmiopendata
     - TTS
     - rtmplite3
+    - vidgear

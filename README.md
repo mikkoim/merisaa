@@ -35,7 +35,9 @@ ffmpeg -loop 1 -i majakka.png -i out_03_full_audio.wav -vcodec libx264 -shortest
 ```
 
 # Streaming
+
+Aloita uusi live stream youtubessa ja kopioi stream key. Aja sitten seuraava komento:
+
 ```bash
-rtmplite3 -d
-ffmpeg -re -i out.mp4 -c:v copy -c:a aac -ar 22050 -ac 1 -preset veryfast -f flv rtmp://localhost/stream
+python scripts/stream.py -k <youtube_stream_key>
 ```
