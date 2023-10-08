@@ -14,9 +14,10 @@ dependencies:
   # Scraping
   - selenium
   - beautifulsoup4
+  - html5lib
 
   # Apps
-  - ffmpeg
+  - conda-forge::ffmpeg
 
   # DS
   - numpy

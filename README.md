@@ -36,6 +36,6 @@ ffmpeg -loop 1 -i majakka.png -i out_03_full_audio.wav -vcodec libx264 -shortest
 
 # Streaming
 ```bash
-rtmp3lite3 -d
+rtmplite3 -d
 ffmpeg -re -i out.mp4 -c:v copy -c:a aac -ar 22050 -ac 1 -preset veryfast -f flv rtmp://localhost/stream
 ```
