@@ -1,0 +1,45 @@
+Säätiedotus merenkulkijoille tänään kello kaksitoista
+Myrskyvaroitus:
+Pohjois-Itämeri
+ Pohjoisen ja luoteen välistä myrskyä kaksikymmentäyksi metriä sekunnissa.
+
+Kovan tuulen varoitus:
+Suomenlahti ja Ahvenanmeri
+ Pohjoisen ja luoteen välistä tuulta yhdeksäntoista metriä sekunnissa.
+
+Selkämeren eteläosa
+ Pohjoisen ja luoteen välistä tuulta seitsemäntoista metriä sekunnissa.
+
+Saaristomeri ja Saimaa
+ Pohjoisen ja luoteen välistä tuulta neljätoista metriä sekunnissa.
+
+Huomautus veneilijöille:
+Selkämeren pohjoisosa, Merenkurkku ja Perämeri
+ Pohjoisen ja luoteen välistä tuulta kaksitoista metriä sekunnissa.
+
+Aallokkovaroitus
+
+
+Pohjois-Itämerellä ja Selkämeren eteläosassa esiintyy kovaa aallokkoa, jossa merkitsevä aallonkorkeus ylittää neljä metriä.
+
+Suomenlahdella, Ahvenanmerellä ja Selkämeren pohjoisosassa esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää kaksi pilkku viisi metriä.
+
+Maan kaakkoispuolella oleva myrskymatalapaine liikkuu itään.
+
+Odotettavissa huomiseen iltapäivään asti:
+Suomenlahti
+ Heikkenevää pohjoisen ja luoteen välistä tuulta, aluksi viisitoista viiva yhdeksäntoista metriä sekunnissa, illalla kymmenen viiva neljätoista metriä sekunnissa, aamulla kuusi viiva kymmenen metriä sekunnissa. Sadekuuroja, enimmäkseen hyvä näkyvyys.
+
+Pohjois-Itämeri ja Ahvenanmeri
+ Pohjoisen ja luoteen välistä tuulta viisitoista viiva yhdeksäntoista metriä sekunnissa, Pohjois-Itämerellä aluksi ylimmillään kaksikymmentäyksi metriä sekunnissa. Iltapäivällä heikkenevää tuulta, illalla kymmenen viiva neljätoista metriä sekunnissa ja yöllä kahdeksan viiva kaksitoista metriä sekunnissa. Sadekuuroja, enimmäkseen hyvä näkyvyys.
+
+Saaristomeri ja Selkämeren eteläosa
+ Pohjoisen ja luoteen välistä tuulta kymmenen viiva neljätoista metriä sekunnissa, Selkämeren eteläosassa ylimmillään seitsemäntoista metriä sekunnissa. Iltapäivällä heikkenevää tuulta, illalla kahdeksan viiva kaksitoista metriä sekunnissa, huomenna päivällä viisi viiva yhdeksän metriä sekunnissa. Sadekuuroja, enimmäkseen hyvä näkyvyys.
+
+Selkämeren pohjoisosa, Merenkurkku ja Perämeri
+ Pohjoisen ja luoteen välistä tuulta kahdeksan viiva kaksitoista metriä sekunnissa. Illalla pohjoisesta heikkenevää tuulta, aamulla viisi viiva kymmenen metriä sekunnissa, huomenna päivällä kaksi viiva kuusi metriä sekunnissa. Enimmäkseen hyvä näkyvyys.
+
+Saimaa
+ Heikkenevää pohjoisen ja luoteen välistä tuulta, aluksi kymmenen viiva neljätoista metriä sekunnissa, illalla kahdeksan viiva kaksitoista metriä sekunnissa, yöllä viisi viiva yhdeksän metriä sekunnissa. Vesi- tai räntäsadetta, kohtalainen näkyvyys.
+
+

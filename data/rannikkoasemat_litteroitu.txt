@@ -1,0 +1,36 @@
+haapasaari, 101042
+kotka rankki, 101030
+orrengrund, 101039
+emäsalo, 101023
+kalboodagrund, 101022
+itätoukki, 105392
+harmaja, 100996
+mäkiluoto, 100997
+bogashäär, 100969
+jussaröö, 100965
+hanko tulliniemi, 100946
+russaröö, 100932
+väänöö, 100945
+uuttöö, 100908
+boogsäär, 100921
+rajakari, 100947
+faagerholm, 100924
+kumlinge, 100928
+nyhamn, 100909
+märkket, 100919
+isokari, 101059
+kylmäpihlaja, 101061
+tahkoluoto, 101267
+säälgrund, 101256
+breedshääret, 101479
+strömmingsboodan, 101481
+valassaaret, 101464
+kallan, 101660
+tankar, 101661
+ulkokalla, 101673
+nahkiainen, 101775
+raahe, 101785
+oulu vihreäsaari, 101794
+marjaniemi, 101784
+kemi ykkönen, 101783
+ajos, 101846

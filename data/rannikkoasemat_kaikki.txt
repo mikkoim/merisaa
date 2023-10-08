@@ -1,0 +1,51 @@
+kotka haapasaari, 101042
+kotka rankki, 101030
+loviisa orrengrund, 101039
+porvoo kilpilahti satama, 100683
+porvoo emäsalo, 101023
+porvoo kalbådagrund, 101022
+helsinki vuosaari satama, 151028
+sipoo itätoukki, 105392
+helsinki harmaja, 100996
+helsinki helsingin majakka, 101003
+kirkkonummi mäkiluoto, 100997
+inkoo bågaskär, 100969
+raasepori jussarö, 100965
+hanko tulliniemi, 100946
+hanko russarö, 100932
+kemiönsaari vänö, 100945
+parainen utö, 100908
+kökar bogskär, 100921
+turku rajakari, 100947
+parainen fagerholm, 100924
+kumlinge kirkonkylä, 100928
+lumparland långnäs satama, 151048
+maarianhamina länsisatama, 151029
+maarianhamina lotsberget, 107383
+lemland nyhamn, 100909
+hammarland märket, 100919
+kustavi isokari, 101059
+rauma kylmäpihlaja, 101061
+pori tahkoluoto satama, 101267
+kristiinankaupunki majakka, 101268
+kaskinen sälgrund, 101256
+korsnäs bredskäret, 101479
+maalahti strömmingsbådan, 101481
+mustasaari valassaaret, 101464
+pietarsaari kallan, 101660
+kokkola tankar, 101661
+kalajoki ulkokalla, 101673
+raahe nahkiainen, 101775
+raahe lapaluoto satama, 101785
+oulu vihreäsaari satama, 101794
+hailuoto marjaniemi, 101784
+kemi i majakka, 101783
+kemi ajos, 101846
+asikkala pulkkilanharju, 101185
+luhanka judinsalo, 101362
+tampere siilinkari, 101311
+lappeenranta hiekkapakka, 101252
+rantasalmi rukkasluoto, 101436
+liperi tuiskavanluoto, 101628
+kuopio ritoniemi, 101580
+inari seitalaassa, 129963

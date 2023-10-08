@@ -1,0 +1,52 @@
+name: merisaa
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+
+  # DL
+  - pytorch 
+  - pytorch-cuda=11.8
+
+  # Scraping
+  - selenium
+  - beautifulsoup4
+
+  # Apps
+  - ffmpeg
+
+  # DS
+  - numpy
+  - scipy
+  - pandas
+  - opencv
+  - pillow>=6.0.0
+
+  # Plotting + viz
+  - matplotlib
+  - seaborn
+  - bokeh
+  - plotly
+
+  # ipython + notebooks
+  - ipython
+  - notebook
+  - jupyterlab
+  - ipywidgets
+  - ipykernel
+
+  # Others
+  - tqdm
+  - pytest
+  - ruff
+  - openpyxl
+
+  - pip
+  - pip:
+    - black
+    - fmiopendata
+    - TTS
+    - rtmplite3

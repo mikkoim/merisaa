@@ -1,0 +1,2 @@
+file 'out_01_saatiedotus_merenkulkijoille.wav'
+file 'out_02_saa_rannikkoasemilla.wav'

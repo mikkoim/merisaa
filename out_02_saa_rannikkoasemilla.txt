@@ -1,0 +1,37 @@
+Sää rannikkoasemilla tänään kello seitsemäntoista kymmenen.
+haapasaari: kahdeksan pohjoinen viisitoista  puolipilvistä neljäkymmentäseitsemän.
+kotka rankki: ei havaintoja.
+orrengrund: kahdeksan pohjoinen kuusitoista  melkein pilvistä hyvä näkyvyys.
+emäsalo: seitsemän pohjoinen yhdeksän.
+kalboodagrund: seitsemän pohjoisluode seitsemäntoista.
+itätoukki: seitsemän pohjoisluode viisitoista.
+harmaja: seitsemän pohjoisluode neljätoista  melkein selkeää.
+mäkiluoto: seitsemän pohjoisluode viisitoista.
+bogashäär: kuusi pohjoinen yhdeksän  selkeää hyvä näkyvyys.
+jussaröö: kuusi pohjoisluode kahdeksan  selkeää hyvä näkyvyys.
+hanko tulliniemi: kahdeksan pohjoisluode neljätoista.
+russaröö: kahdeksan pohjoisluode kolmetoista sadetta.
+väänöö: kahdeksan pohjoisluode kaksitoista.
+uuttöö: kahdeksan pohjoisluode neljätoista sadetta puolipilvistä kaksikymmentäkuusi.
+boogsäär: kahdeksan pohjoisluode kahdeksantoista.
+rajakari: kahdeksan pohjoisluode yksitoista.
+faagerholm: kahdeksan pohjoisluode neljätoista sadetta.
+kumlinge: kahdeksan pohjoisluode kolmetoista  melkein pilvistä hyvä näkyvyys.
+nyhamn: kahdeksan pohjoisluode neljätoista  puolipilvistä hyvä näkyvyys.
+märkket: kahdeksan pohjoisluode neljätoista.
+isokari: kahdeksan pohjoisluode kolmetoista sadetta melkein pilvistä yhdeksäntoista.
+kylmäpihlaja: kahdeksan pohjoisluode kuusitoista  melkein selkeää hyvä näkyvyys.
+tahkoluoto: kahdeksan pohjoisluode neljätoista  puolipilvistä hyvä näkyvyys.
+säälgrund: seitsemän luode kymmenen sadetta puolipilvistä hyvä näkyvyys.
+breedshääret: kahdeksan luode kuusi.
+strömmingsboodan: kahdeksan luode seitsemän.
+valassaaret: seitsemän luode kahdeksan.
+kallan: seitsemän pohjoisluode kymmenen.
+tankar: seitsemän pohjoisluode kymmenen  melkein selkeää hyvä näkyvyys.
+ulkokalla: kuusi pohjoisluode kahdeksan.
+nahkiainen: kuusi pohjoisluode yhdeksän.
+raahe: viisi pohjoisluode kuusi   hyvä näkyvyys.
+oulu vihreäsaari: neljä pohjoinen kuusi   hyvä näkyvyys.
+marjaniemi: viisi pohjoinen kahdeksan  melkein selkeää hyvä näkyvyys.
+kemi ykkönen: viisi pohjoisluode kahdeksan.
+ajos: viisi pohjoisluode seitsemän  melkein selkeää hyvä näkyvyys.
