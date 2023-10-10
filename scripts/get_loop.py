@@ -4,6 +4,8 @@ import subprocess
 import itertools
 from pathlib import Path
 import sys
+import shutil
+from datetime import datetime
 
 if __name__=="__main__":
 
@@ -18,6 +20,8 @@ if __name__=="__main__":
         subprocess.run([sys.executable,
                         "scripts/get_merisaa.py",
                         "--asema_file", "data/rannikkoasemat_litteroitu.txt"])
+        shutil
+
         
         subprocess.run([sys.executable,
                      "scripts/tts.py",
@@ -26,11 +30,11 @@ if __name__=="__main__":
 
         subprocess.run([sys.executable,
                      "scripts/tts.py",
-                     "--input", "out_02_saa_rannikkoasemilla.wav",
-                     "--output", "out_02_saa_rannikkoasemilla.txt"])
+                     "--input", "out_02_saa_rannikkoasemilla.txt",
+                     "--output", "out_02_saa_rannikkoasemilla.wav"])
         
         subprocess.run(["ffmpeg",
-                        "y",
+                        "-y",
                         "-f", "concat",
                         "-safe", "0",
                         "-i", "concatenate.txt",
@@ -56,4 +60,4 @@ if __name__=="__main__":
             pass
 
         save_A = not save_A
-        sleep(1800)
+        sleep(1) # wait 30min
