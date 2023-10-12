@@ -34,10 +34,23 @@ ffmpeg -f concat -safe 0 -i concatenate.txt -c copy out_03_full_audio.wav
 ffmpeg -loop 1 -i majakka.png -i out_03_full_audio.wav -vcodec libx264 -shortest out.mp4
 ```
 
+# Jatkuva haku
+
+Hakee 30min välein merisään ja tallentaa sen videotiedostoksi tiedostoihin `out_A.mp4` ja `out_B.mp4`.
+
+```bash
+python scripts/get_loop.py
+```
+
 # Streaming
 
 Aloita uusi live stream youtubessa ja kopioi stream key. Aja sitten seuraava komento:
 
 ```bash
 python scripts/stream.py -k <youtube_stream_key>
+
+```
+Jatkuvaa streamausta varten tarvitaan kaksi tiedostoa 
+```bash
+python scripts/stream_loop.py -iA out_A.mp4 -iB out_B.mp4 -k <youtube_stream_key>
 ```

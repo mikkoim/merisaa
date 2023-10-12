@@ -100,7 +100,7 @@ def load_raw_data(driver):
 
     # Lataa sivun html
     html = driver.page_source
-    soup = BeautifulSoup(html, features="html5")
+    soup = BeautifulSoup(html, features="html5lib")
 
     # Hae havainnot
     havainnot_section = soup.select("section[aria-label^='Viimeisimmät säähavainnot']")
@@ -220,7 +220,7 @@ def get_saatiedotus(driver):
     saatiedotus_url = "https://www.ilmatieteenlaitos.fi/saatiedotus-merenkulkijoille"
     driver.get(saatiedotus_url)
 
-    soup = BeautifulSoup(driver.page_source, features="html5")
+    soup = BeautifulSoup(driver.page_source, features="html5lib")
     saatiedotus_string = soup.select("div[id^=proxyId_6mddLTaDJSXFZjHemVsl61]")[0].text
     
     return saatiedotus_cleaner(saatiedotus_string)

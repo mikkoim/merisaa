@@ -15,10 +15,8 @@ def main(args):
 
         if stream_A:
             source = args["input_A"]
-            print("\n\n\n STREAM A \n\n\n")
         else:
             source = args["input_B"]
-            print("\n\n\n STREAM B \n\n\n")
 
 
         # define required FFmpeg optimizing parameters for your writer
@@ -27,6 +25,7 @@ def main(args):
 
         # while True:
         while True:
+            print(f"\n\n\n STREAMING {source} \n\n\n")
             stream = CamGear(source=source, logging=True).start()
             print(f"Streaming from {source}")
             output_params = {
@@ -45,7 +44,7 @@ def main(args):
 
             # Define writer with defined parameters and
             writer = WriteGear(
-                output="rtmp://localhost/stream",
+                output="rtmp://a.rtmp.youtube.com/live2/{}".format(args['key']),
                 logging=True,
                 custom_ffmpeg=r"C:\Users\mikko\miniconda3\envs\merisaa-env\Library\bin\ffmpeg.exe",
                 **output_params

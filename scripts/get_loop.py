@@ -20,7 +20,10 @@ if __name__=="__main__":
         subprocess.run([sys.executable,
                         "scripts/get_merisaa.py",
                         "--asema_file", "data/rannikkoasemat_litteroitu.txt"])
-        shutil
+        now_string = datetime.now().strftime("%y-%m-%dT%H-%M")
+
+        shutil.copy("out_01_saatiedotus_merenkulkijoille.txt", f"01_saatiedotus_{now_string}.txt")
+        shutil.copy("out_02_saa_rannikkoasemilla.txt", f"02_saa_rannikkoasemilla_{now_string}.txt")
 
         
         subprocess.run([sys.executable,
@@ -60,4 +63,4 @@ if __name__=="__main__":
             pass
 
         save_A = not save_A
-        sleep(1) # wait 30min
+        sleep(1800) # wait 30min
