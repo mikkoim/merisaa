@@ -1,6 +1,6 @@
-beautifulsoup4==4.12.2
-pandas==1.5.3
-selenium==4.13.0
-tqdm==4.66.1
-TTS==0.17.8
-vidgear==0.3.2
+beautifulsoup4
+pandas
+selenium
+tqdm
+TTS
+vidgear
